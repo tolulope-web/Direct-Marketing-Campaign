@@ -22,31 +22,38 @@ Excel Functions (e.g., IF, VLOOKUP, COUNTIFS, AVERAGE, SUM, etc.)
 Data Validation & Conditional Formatting
 
 📊 Key Insights (Summary)
-🔹 [Example: "Customers contacted in May had the highest conversion rate."]
 
-🔹 [Example: "Most successful marketing outcome was tied to job title = student."]
+🔹 The campaign had a low overall conversion rate, with a significantly higher proportion of clients declining to subscribe..
+    Previous campaign had a bit higher outcome than the new one
 
-🔹 [Example: "Older age groups responded more favorably to long-term deposits."]
+🔹 There were spikes in good ouctcomes in may and september
+
+🔹 The elderly population data was a bit low, but showe a promising ourtcome and should be looked into for the next camapaign
+
+🔹Management, blue-collar and technician jobs had the best outcome of the general popualtion and can be produce a succesful outcome in a new campaign
+
+🔹From the campaign it shows that cellular and telephone outreach is not sufficient for campaigns and other avenues shoud be considered.
+ 
 
 🧹 Data Cleaning Steps
 Removed duplicate entries
 
-Handled missing values (e.g., filled with median/mean or excluded)
 
 Corrected inconsistent formatting (e.g., capitalization using =PROPER())
 
 Transformed categorical variables for better readability
 
-Created new columns for month, age category, etc.
+Created new columns for loan, age, housing
 
 📈 Dashboard Features
 Filter by Month, Age Group, and Job Type
+Previous Success vs. Failure campaign breakdown over months
 
-Success vs. Failure campaign breakdown
+Success vs. Failure campaign breakdown over months
 
-Conversion rate tracker
+Success vs Failure outcome by Education
 
-Outcome distribution over time
+Outcome distribution over Job
 
 🚀 How to Use
 Open dashboard.xlsx
@@ -55,16 +62,13 @@ Use slicers or filters to explore different segments
 
 Review charts for trends and KPIs
 
-Refer to eda_summary.xlsx for supporting stats
 
-🧾 Sources
-Dataset: [Insert source if public, e.g., UCI ML Repository]
 
 Tools: Microsoft Excel
 
 🙋‍♀️ Author
-Name: [Your Full Name]
-Email: [your.email@example.com]
-LinkedIn: [your LinkedIn]
-GitHub: [your GitHub profile, if applicable]
+Name: Tolulope Ajayi
+Email: tolulope24049@gmail.com
+LinkedIn: https://www.linkedin.com/in/tolulope-ajayi-632848148/
+GitHub: tolulope-web
 
