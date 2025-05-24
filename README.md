@@ -43,7 +43,7 @@ Corrected inconsistent formatting (e.g., capitalization using =PROPER())
 
 Transformed categorical variables for better readability
 
-Created new columns for loan, age, housing
+
 
 📈 Dashboard Features
 Filter by Month, Age Group, and Job Type
