@@ -26,7 +26,7 @@ Data Validation & Conditional Formatting
 🔹 The campaign had a low overall conversion rate, with a significantly higher proportion of clients declining to subscribe..
     Previous campaign had a bit higher outcome than the new one
 
-🔹 There were spikes in good ouctcomes in may and september
+🔹 There were spikes in good ouctcomes in may and august
 
 🔹 The elderly population data was a bit low, but showe a promising ourtcome and should be looked into for the next camapaign
 
