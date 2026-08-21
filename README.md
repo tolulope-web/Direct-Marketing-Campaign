@@ -67,8 +67,8 @@ Review charts for trends and KPIs
 Tools: Microsoft Excel
 
 🙋‍♀️ Author
-Name: Tolulope Ajayi
+Name: Tolulope Makinde
 Email: tolulope24049@gmail.com
-LinkedIn: https://www.linkedin.com/in/tolulope-ajayi-632848148/
+LinkedIn: https://www.linkedin.com/in/tolulope-makinde-632848148/
 GitHub: tolulope-web
 
